@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    border:solid;
+    /* width:50%; */
+    text-decoration: wavy red underline;
+    letter-spacing:5px;
+}
+h3{
+    text-align: right;
+    /* text-decoration: underline; */
+    text-decoration: red overline;
+    /* text-decoration-color: rgb(0, 255, 255); */
+    text-decoration-style: dashed;
+}
+p{
+    text-align: right;
+    line-height: 1.5;
+    font-size: 25px;
+    font-family: papyrus;
+    
+}
+h2{
+    font-weight:bolder;
+    
+}
+a{
+    text-decoration: none;
+}

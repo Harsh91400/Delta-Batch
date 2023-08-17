@@ -1,0 +1,14 @@
+body{
+    border:2px solid black;
+}
+h2{
+    color:orange;
+}
+button{
+    background-color: blue;
+    color:white;
+}
+p{
+    background-color: black;
+    color:white;
+}
