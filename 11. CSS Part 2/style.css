@@ -1,0 +1,18 @@
+*{
+    font-family: "Courier New";
+}
+#login,#signup{
+    background-color: red;
+    color: black;
+
+}
+
+/* class selector */
+.follow{
+    background-color: black;
+}
+
+/* decendant selector */
+p a{
+    color:purple;
+}
