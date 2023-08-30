@@ -1,0 +1,36 @@
+div{
+    padding:5px;
+    margin:2px;
+
+    width:500px;
+    height:200px;
+    background-color: pink;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color:black; */
+
+    /* Border ShortHand */
+    border:5px solid black;
+
+    /* border-left-color: aqua;
+    border-left-style:dashed; */
+    /* border-top:2px dashed aqua; */
+
+
+    /* Border Radius */
+    border-top-right-radius: 25px;
+    
+}
+h1{
+    color:rgb(3, 87, 87);
+    border-width:2px;
+    border-style:dashed;
+    border-color:green;
+}
+button{
+    border:2px solid black;
+    border-radius: 10px;
+    /* padding-left: 25px;
+    padding-right:25px; */
+    padding: 0px 25px 0px;
+}

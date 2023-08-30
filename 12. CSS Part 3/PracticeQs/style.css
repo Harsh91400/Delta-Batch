@@ -1,0 +1,33 @@
+div{
+    border:2px solid black;
+    margin: 5px;
+    height: 200px;
+    width:70px;
+}
+#div1{
+    height:50px;
+    width:50px;
+    margin:10px;
+    border:2px solid black;
+    border-radius: 50%;
+    background-color: red;
+
+}
+#div2{
+    height:50px;
+    width:50px;
+    margin:10px;
+    border:2px solid black;
+    border-radius: 50%;
+    background-color: yellow;
+
+}
+#div3{
+    height:50px;
+    width:50px;
+    margin:10px;
+    border:2px solid black;
+    border-radius: 50%;
+    background-color: green;
+
+}

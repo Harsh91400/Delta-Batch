@@ -1,11 +1,14 @@
 *{
     font-family: "Courier New";
 }
-#login,#signup{
+h1,h3{
+    color:rgb(173, 10, 10);
+}
+/* #login,#signup{
     background-color: red;
     color: black;
 
-}
+} */
 
 /* class selector */
 .follow{
@@ -15,4 +18,48 @@
 /* decendant selector */
 p a{
     color:purple;
+}
+
+input[type="text"]{
+    color:green;
+}
+input[type="password"]{
+    color:aqua;
+}
+input[type]{
+    background-color: ghostwhite;
+}
+
+div[id="myId"] p{
+    color:green;
+}
+
+/* #myId p{
+    color:green;
+} */
+
+
+/* Pseudo Class */
+/* Hover */
+button{
+    background-color: aqua;
+}
+button:hover{
+    background-color: black;
+    color:white;
+}
+button:active{
+    background-color: green;
+}
+p:active{
+    font-weight: bold;
+    color:aqua;
+}
+input[type="radio"]:checked + label{
+    background-color: black;
+    color:blue;
+}
+
+div:nth-of-type(1){
+    background-color: black;
 }
