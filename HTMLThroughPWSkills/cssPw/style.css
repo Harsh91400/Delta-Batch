@@ -1,0 +1,46 @@
+/* body{
+    background-color: aqua;
+} */
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+h1{
+    color:#115e5e;
+    font-size: 43px;
+    text-align: center;
+    text-decoration: underline overline;
+    font-family: cursive;
+}
+p{
+    color: #00ffff;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 1000;
+    border: 2px solid black;
+}
+#p1{
+    background-color: black;
+    margin: 20px; /*External space*/
+    padding: 20px; /*internal space*/
+}
+
+p:hover{
+    border: 7px solid aqua;
+    background-color: black;
+}
+div{
+    margin: 25px;
+}
+.box1{
+    background-color: yellow;
+    display: inline;
+    width: 150px;
+}
+.box2{
+    background-color: pink;
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+}
